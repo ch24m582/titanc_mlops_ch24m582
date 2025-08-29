@@ -1,0 +1,37 @@
+artifact_path: file:///home/vikaswsl/projects/titanic-mlops/titanc_mlops_ch24m582/mlruns/344596534645293769/models/m-3779f196c0b04c9cbc212b57e7291342/artifacts
+flavors:
+  h2o:
+    code: null
+    data: model.h2o
+    h2o_version: 3.46.0.7
+  python_function:
+    data: model.h2o
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.h2o
+    python_version: 3.12.3
+is_signature_from_type_hint: false
+mlflow_version: 3.3.2
+model_id: m-3779f196c0b04c9cbc212b57e7291342
+model_size_bytes: 2525301
+model_uuid: m-3779f196c0b04c9cbc212b57e7291342
+prompts: null
+run_id: acb428a5f7a444c98965277e68ee6894
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "Pclass", "required": true}, {"type": "double",
+    "name": "Age", "required": true}, {"type": "double", "name": "SibSp", "required":
+    true}, {"type": "double", "name": "Parch", "required": true}, {"type": "double",
+    "name": "Fare", "required": true}, {"type": "double", "name": "Sex_vec", "required":
+    true}, {"type": "double", "name": "Embarked_vec", "required": true}]'
+  outputs: '[{"type": "long", "name": "predict", "required": true}, {"type": "double",
+    "name": "p0", "required": true}, {"type": "double", "name": "p1", "required":
+    true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-08-29 11:17:18.621097'

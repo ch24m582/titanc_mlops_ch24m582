@@ -1,0 +1,14 @@
+artifact_uri: file:///home/vikaswsl/projects/titanic-mlops/titanc_mlops_ch24m582/mlruns/344596534645293769/cf4aa6f8a61946deba7a97870fb621b3/artifacts
+end_time: 1756455362827
+entry_point_name: ''
+experiment_id: '344596534645293769'
+lifecycle_stage: active
+run_id: cf4aa6f8a61946deba7a97870fb621b3
+run_name: dapper-shrew-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756455346821
+status: 4
+tags: []
+user_id: vikaswsl

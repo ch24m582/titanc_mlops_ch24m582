@@ -1,0 +1,14 @@
+artifact_uri: file:///home/vikaswsl/projects/titanic-mlops/titanc_mlops_ch24m582/mlruns/344596534645293769/3ca82dc00e78470fba3ff4599fb4c934/artifacts
+end_time: 1756455834715
+entry_point_name: ''
+experiment_id: '344596534645293769'
+lifecycle_stage: active
+run_id: 3ca82dc00e78470fba3ff4599fb4c934
+run_name: delightful-smelt-364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756455798070
+status: 3
+tags: []
+user_id: vikaswsl

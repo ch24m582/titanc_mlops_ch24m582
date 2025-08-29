@@ -1,0 +1,14 @@
+artifact_uri: file:///home/vikaswsl/projects/titanic-mlops/titanc_mlops_ch24m582/mlruns/344596534645293769/900f57e2f2f34b1a83a421974785d72e/artifacts
+end_time: 1756457054166
+entry_point_name: ''
+experiment_id: '344596534645293769'
+lifecycle_stage: active
+run_id: 900f57e2f2f34b1a83a421974785d72e
+run_name: silent-hare-280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756457023886
+status: 3
+tags: []
+user_id: vikaswsl

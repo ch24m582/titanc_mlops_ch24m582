@@ -1,0 +1,8 @@
+column_name,type
+Pclass,real
+Age,real
+SibSp,real
+Parch,real
+Fare,real
+Sex_vec,real
+Embarked_vec,real

@@ -1,0 +1,14 @@
+artifact_uri: file:///home/vikaswsl/projects/titanic-mlops/titanc_mlops_ch24m582/mlruns/344596534645293769/013be03420f5433eb84ad2ad91adabcc/artifacts
+end_time: 1756463308642
+entry_point_name: ''
+experiment_id: '344596534645293769'
+lifecycle_stage: active
+run_id: 013be03420f5433eb84ad2ad91adabcc
+run_name: enthused-mare-336
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756463276677
+status: 3
+tags: []
+user_id: vikaswsl

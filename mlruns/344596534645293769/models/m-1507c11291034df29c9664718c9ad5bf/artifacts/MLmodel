@@ -1,0 +1,20 @@
+artifact_path: file:///home/vikaswsl/projects/titanic-mlops/titanc_mlops_ch24m582/mlruns/344596534645293769/models/m-1507c11291034df29c9664718c9ad5bf/artifacts
+flavors:
+  h2o:
+    code: null
+    data: model.h2o
+    h2o_version: 3.46.0.7
+  python_function:
+    data: model.h2o
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.h2o
+    python_version: 3.12.3
+mlflow_version: 3.3.2
+model_id: m-1507c11291034df29c9664718c9ad5bf
+model_size_bytes: 4180880
+model_uuid: m-1507c11291034df29c9664718c9ad5bf
+prompts: null
+run_id: 3ca82dc00e78470fba3ff4599fb4c934
+utc_time_created: '2025-08-29 08:23:50.577282'

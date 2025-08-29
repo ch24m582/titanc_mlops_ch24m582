@@ -1,0 +1,14 @@
+artifact_uri: file:///home/vikaswsl/projects/titanic-mlops/titanc_mlops_ch24m582/mlruns/344596534645293769/ea512a83e43b45fdaa1da4b9292016a3/artifacts
+end_time: 1756465878749
+entry_point_name: ''
+experiment_id: '344596534645293769'
+lifecycle_stage: active
+run_id: ea512a83e43b45fdaa1da4b9292016a3
+run_name: beautiful-jay-220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756465851495
+status: 3
+tags: []
+user_id: vikaswsl

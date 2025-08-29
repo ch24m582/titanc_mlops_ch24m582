@@ -1,0 +1,6 @@
+artifact_location: file:///home/vikaswsl/projects/titanic-mlops/titanc_mlops_ch24m582/mlruns/344596534645293769
+creation_time: 1756455323307
+experiment_id: '344596534645293769'
+last_update_time: 1756455323307
+lifecycle_stage: active
+name: Titanic_AutoML

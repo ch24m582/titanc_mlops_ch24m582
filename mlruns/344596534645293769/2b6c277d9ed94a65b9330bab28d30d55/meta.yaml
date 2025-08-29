@@ -1,0 +1,14 @@
+artifact_uri: file:///home/vikaswsl/projects/titanic-mlops/titanc_mlops_ch24m582/mlruns/344596534645293769/2b6c277d9ed94a65b9330bab28d30d55/artifacts
+end_time: 1756465375406
+entry_point_name: ''
+experiment_id: '344596534645293769'
+lifecycle_stage: active
+run_id: 2b6c277d9ed94a65b9330bab28d30d55
+run_name: clumsy-boar-341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756465347242
+status: 3
+tags: []
+user_id: vikaswsl

@@ -1,0 +1,3 @@
+experiment_name: "Titanic_AutoML"
+tracking_uri: "file:./mlruns"
+model_name: "TitanicClassifier"

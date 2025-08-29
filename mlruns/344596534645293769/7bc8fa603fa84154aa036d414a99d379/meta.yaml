@@ -1,0 +1,14 @@
+artifact_uri: file:///home/vikaswsl/projects/titanic-mlops/titanc_mlops_ch24m582/mlruns/344596534645293769/7bc8fa603fa84154aa036d414a99d379/artifacts
+end_time: 1756463749106
+entry_point_name: ''
+experiment_id: '344596534645293769'
+lifecycle_stage: active
+run_id: 7bc8fa603fa84154aa036d414a99d379
+run_name: selective-ox-84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756463721226
+status: 3
+tags: []
+user_id: vikaswsl

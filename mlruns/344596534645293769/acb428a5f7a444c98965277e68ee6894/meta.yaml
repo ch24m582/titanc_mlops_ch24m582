@@ -1,0 +1,14 @@
+artifact_uri: file:///home/vikaswsl/projects/titanic-mlops/titanc_mlops_ch24m582/mlruns/344596534645293769/acb428a5f7a444c98965277e68ee6894/artifacts
+end_time: 1756466242767
+entry_point_name: ''
+experiment_id: '344596534645293769'
+lifecycle_stage: active
+run_id: acb428a5f7a444c98965277e68ee6894
+run_name: peaceful-hog-869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756466211817
+status: 3
+tags: []
+user_id: vikaswsl

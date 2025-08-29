@@ -1,0 +1,14 @@
+artifact_uri: file:///home/vikaswsl/projects/titanic-mlops/titanc_mlops_ch24m582/mlruns/344596534645293769/e7eaf6e88cc842ab83fb78cad7468754/artifacts
+end_time: 1756459961285
+entry_point_name: ''
+experiment_id: '344596534645293769'
+lifecycle_stage: active
+run_id: e7eaf6e88cc842ab83fb78cad7468754
+run_name: popular-shoat-681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756459928136
+status: 3
+tags: []
+user_id: vikaswsl

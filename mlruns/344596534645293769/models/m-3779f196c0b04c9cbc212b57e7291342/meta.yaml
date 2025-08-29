@@ -1,0 +1,10 @@
+artifact_location: file:///home/vikaswsl/projects/titanic-mlops/titanc_mlops_ch24m582/mlruns/344596534645293769/models/m-3779f196c0b04c9cbc212b57e7291342/artifacts
+creation_timestamp: 1756466238601
+experiment_id: '344596534645293769'
+last_updated_timestamp: 1756466242751
+model_id: m-3779f196c0b04c9cbc212b57e7291342
+model_type: null
+name: model
+source_run_id: acb428a5f7a444c98965277e68ee6894
+status: 2
+status_message: null
