@@ -1,5 +1,8 @@
-.dvc/cache/
-data/raw/
-mlruns/
-artifacts/
-*.csv
+/config.local
+/tmp
+/cache
+
+# Ignore raw data but allow DVC tracking
+data/raw/*
+!data/raw/*.dvc
+!data/raw/.gitkeep
